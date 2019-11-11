@@ -36,7 +36,7 @@ public class SendMessageRepository {
     private SendMessageRepository instance;
     private Api api;
     private static final String ACCOUNT_SID = " ";/*Your twilio credentials */
-    private static final String AUTH_TOKEN = "4691d0dc0cb4c512f93563b9641a525b";
+    private static final String AUTH_TOKEN = "";/*Your twilio credentials */
     private String mbody, to;
     private ArrayList<ModelMessage> mList = new ArrayList<>();
     private static MyDatabase myDatabase;
