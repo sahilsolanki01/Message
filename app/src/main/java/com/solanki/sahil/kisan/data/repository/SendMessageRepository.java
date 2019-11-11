@@ -35,7 +35,7 @@ import retrofit2.Response;
 public class SendMessageRepository {
     private SendMessageRepository instance;
     private Api api;
-    private static final String ACCOUNT_SID = "AC7978240f6507645a873c704c142fcdf9";
+    private static final String ACCOUNT_SID = " ";/*Your twilio credentials */
     private static final String AUTH_TOKEN = "4691d0dc0cb4c512f93563b9641a525b";
     private String mbody, to;
     private ArrayList<ModelMessage> mList = new ArrayList<>();
