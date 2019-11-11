@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kisan</string>
+    <string name="tab_text_1">CONTACTS</string>
+    <string name="tab_text_2">MESSAGES</string>
+    <string name="button_1">Send Message</string>
+    <string name="button_2">Send</string>
+
+    <string name="alert">OK</string>
+    <string name="restart_detail">Restart the APP and provide the required permission</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
